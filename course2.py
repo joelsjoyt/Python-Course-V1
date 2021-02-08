@@ -1,6 +1,4 @@
-#no = input("Enter the number: ")
-#if (no % 2) == 0:
-#   print(str(no) + " Is an even number")
+
 a = 1
 b = 2
 if b < a:
@@ -9,6 +7,11 @@ elif b == 2:
     print("Yeah")
 else:
     print("false")
+
+#no = input("Enter the number: ")
+#if (no % 2) == 0:
+#   print(str(no) + " Is an even number")
+
 # i = 0
 # while i <= 5:
 #     print(i)
