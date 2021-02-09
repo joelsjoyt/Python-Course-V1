@@ -1,7 +1,9 @@
 #   Printing
+# print("item to print")
 print("Hello world")
 
 #   Variables
+#   variable_name = value
 #   Integer addition
 a = 10
 b = 20
