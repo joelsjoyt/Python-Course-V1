@@ -18,11 +18,11 @@
 # sum(a,b) # sum(10, 20) => 30
 
 #3 to 10
-# def first(x, y):
-#     for i in range(x, y):
-#         print(i)
-# first(20, 31)
-# first(12, 21)
+def first(x, y):
+    for i in range(x, y):
+        print(i)
+first(20, 31)
+first(12, 21)
 
 # Class Syntax
 
