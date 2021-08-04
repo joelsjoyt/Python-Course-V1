@@ -31,7 +31,6 @@ class C(CarA):
 carc_1 = C("XYZ",400,2021,30)
 carc_1.show_car()
 
-
 # Parent class Bank
 # name
 # acc no
