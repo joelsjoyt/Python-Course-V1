@@ -10,7 +10,7 @@ A beginner level python course created by Joel S Joy
     ```
     Running modules
     ```
-    python -m finename (withpout'.py')
+    python -m filename (withpout'.py')
     python -m transaction.balance
     ```
 Feel free to '*' the repo if u like it
